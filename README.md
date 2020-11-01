@@ -6,5 +6,3 @@
 - The board should restart and the blue LED start blinking
 
 It seems to build with feather-nrf52840 target for now.
-- 
-
